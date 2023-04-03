@@ -78,4 +78,16 @@
     <string name="establecer">Establecer</string>
 
 
+    <string name="rec_1">Proporcionar una dieta equilibrada y adecuada para la especie y la edad de la mascota.</string>
+    <string name="rec_2">Asegurarse de que la mascota tenga acceso a agua fresca y limpia en todo momento.</string>
+    <string name="rec_3">Programar visitas regulares al veterinario para chequeos de salud y vacunaciones.</string>
+    <string name="rec_4">Mantener a la mascota limpia y bien arreglada, lo que puede incluir baños regulares, cepillado y corte de uñas.</string>
+    <string name="rec_5">Proporcionar suficiente ejercicio y estimulación mental para evitar el aburrimiento y el comportamiento destructivo.</string>
+    <string name="rec_6">Asegurarse de que la mascota tenga un lugar seguro y cómodo para dormir.</string>
+    <string name="rec_7">Mantener la casa y el área donde la mascota vive limpia y libre de peligros.</string>
+    <string name="rec_8">Proporcionar juguetes y actividades adecuados para su especie y edad para mantener a la mascota estimulada y feliz.</string>
+    <string name="rec_9">Brindar entrenamiento y socialización adecuados para ayudar a la mascota a adaptarse a su entorno.</string>
+    <string name="rec_10">Asegurarse de que la mascota tenga un collar y una identificación en todo momento en caso de que se pierda.</string>
+
+
 </resources>
