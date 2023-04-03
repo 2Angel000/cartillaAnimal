@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#414BB2</color>
+    <color name="C_sesion">#652CB3</color>
+    <color name="C_registro">#0CA789</color>
+    <color name="C_btnMenu">#414BB2</color>
+    <color name="C_Vip">#9510AC</color>
+    <color name="C_check">#67C100</color>
+    <color name="C_letters">#808080</color>
+    <color name="C_btnOrange">#F24726</color>
+    <color name="C_btnCartilla">#DA0063</color>
+    <color name="C_tipoCuenta">#FAC710</color>
+    <color name="C_linkedin">#0077b5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#F2F0F0</color>
+</resources>

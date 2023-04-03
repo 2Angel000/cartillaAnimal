@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/drawable/ic_perro_foreground.xml" value="0.3505" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_acerca_de.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_login2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_mascotas.xml" value="0.25" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_recomendaciones.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_registro.xml" value="0.33" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_registro2.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_registro_mascotas.xml" value="0.33" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_registro_usuario.xml" value="0.33" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/content_registro.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/list_element.xml" value="0.33" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/list_element_vacuna.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.3505" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/mipmap-anydpi-v26/ic_perro.xml" value="0.3505" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/mipmap-anydpi-v26/ic_perro_round.xml" value="0.3505" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/mipmap-anydpi-v26/ic_pperro.xml" value="0.3505" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="SuppressionsComponent">
+    <option name="suppComments" value="[]" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

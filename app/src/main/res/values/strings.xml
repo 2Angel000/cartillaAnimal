@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">cartilla Animal</string>
+    <string name="comp_perfil">Completar Perfil</string>
+    <string name="title">Cartilla de Vacunación Animal</string>
+    <string name="nombre">Nombre completo</string>
+    <string name="nombre_mascota">Nombre</string>
+    <string name="ej_nombre">Nombres A. Paterno A. Materno</string>
+    <string name="nombre_hint">Ingrese su nombre</string>
+    <string name="direccion_hint">Ingrese su direccion</string>
+    <string name="direccion">Direccion</string>
+    <string name="telefono_hint">Número telefónico</string>
+    <string name="nombreMascota_hint">Nombre de su mascota</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="contra">Contraseña</string>
+    <string name="conf_contra">Confirmar Contraseña</string>
+    <string name="contra_hint">*******</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="registrarse">Registrarse</string>
+    <string name="olvido_Contra">¿Olvidó su contraseña?</string>
+    <string name="telefono">+52 | xxx-xxx-xxxx</string>
+    <string name="ej_direccion">Ejemplo Avenida Insurgentes</string>
+    <string name="tipo_suscripcion">Tipo de suscripción:</string>
+    <string name="suscripcion_gratuita">Gratuita</string>
+    <string name="suscripcion_VIP">VIP</string>
+    <string name="hacerce_vip">Hacerse VIP</string>
+    <string name="titulo_mascotas">Mascotas</string>
+    <string name="nombre_mascotas">Firulais</string>
+    <string name="tipo_mascotas">Tipo de Mascota</string>
+    <string name="edadMascotas">Edad</string>
+    <string name="edadMascotas_hint">2 meses</string>
+    <string name="peso">Peso</string>
+    <string name="peso_hint">2 Kg</string>
+    <string name="omitir">Omitir</string>
+    <string name="copy">2023 Copyright Todos los derechos reservados</string>
+
+    <string name="bienvenido">Bienvenid@,</string>
+    <string name="mensaje">¡Cartilla de Vacunación digital, Cuidando de tus mascotas!</string>
+    <string name="info">Información de Vacunas</string>
+    <string name="recomendaciones">Recomendaciones de cuidado</string>
+    <string name="acerca_de">Acerca de Nosotros</string>
+
+
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+
+</resources>
