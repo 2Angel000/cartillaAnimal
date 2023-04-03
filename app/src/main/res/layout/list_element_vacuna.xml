@@ -35,7 +35,7 @@
                 app:srcCompat="@mipmap/ic_img_default" />
 
             <LinearLayout
-                android:id="@+id/linearLayout"
+                android:id="@+id/linearLayoutVacuna"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_alignParentTop="true"
@@ -58,17 +58,16 @@
                     android:textStyle="bold" />
 
                 <Button
-                    android:id="@+id/btnEditar"
+                    android:id="@+id/btnCartilla"
                     android:layout_width="200dp"
                     android:layout_height="60dp"
-                    android:text="@string/editar"
+                    android:text="@string/btnCartilla"
                     android:gravity="center"
                     android:drawableLeft="@drawable/ic_vacuna"
-
                     android:textColor="@android:color/white"
                     app:backgroundTint="@color/C_registro"
                     android:layout_toEndOf="@+id/iconImageView"
-                    android:layout_marginLeft="14dp"
+                    android:layout_marginLeft="50dp"
                     app:layout_constraintBottom_toBottomOf="parent"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"

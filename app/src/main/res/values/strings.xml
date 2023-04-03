@@ -43,4 +43,9 @@
     <string name="editar">Editar</string>
     <string name="eliminar">Eliminar</string>
 
+    <string name="vacunas">Vacunas</string>
+    <string name="mensaje2">Seguimiento de vacunación para sus mascotas</string>
+    <string name="btnCartilla">Ver Cartilla</string>
+
+
 </resources>

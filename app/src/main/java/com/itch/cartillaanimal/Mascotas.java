@@ -38,7 +38,7 @@ public class Mascotas extends AppCompatActivity {
 
     public void init(){
         elements = new ArrayList<>();
-        elements.add(new ListElement("Nombre: Hackico","Tipo: Perro","Edad: 6 Meses","Peso: 6.4 Kg"));
+        elements.add(new ListElement("Nombre: Hachicko","Tipo: Perro","Edad: 6 Meses","Peso: 6.4 Kg"));
         elements.add(new ListElement("Nombre: Bessie","Tipo: Conejo","Edad: 2 Años","Peso: 1.4 Kg"));
         elements.add(new ListElement("Nombre: Benito","Tipo: Gato","Edad: 1 mes","Peso: 700g"));
 
