@@ -48,4 +48,34 @@
     <string name="btnCartilla">Ver Cartilla</string>
 
 
+    <string name="Cartilla">Cartilla</string>
+    <string name="recordatorio">Recordatorio</string>
+    <string name="periodo">Periodo</string>
+    <string name="estado">Estado</string>
+    <string name="fecha">Fecha</string>
+    <string name="vacuna">Vacuna(s)</string>
+    <string name="anual">Anual</string>
+
+    <!-- Perro -->
+    <string name="p1p">6 - 8 Semanas</string>
+    <string name="v1p">Polivalente</string>
+    <string name="p2p">9 - 11 Semanas</string>
+    <string name="v2p">Polivalente 2</string>
+    <string name="p3p">12 - 14 Semanas</string>
+    <string name="v3p">Rabia</string>
+    <!-- gato -->
+    <string name="p1g">8 Semanas</string>
+    <string name="p2g">12 Semanas</string>
+    <string name="p3g">16 Semanas</string>
+    <string name="p4g">19 Semanas</string>
+    <string name="p5g">Anuall</string>
+    <!-- conejo -->
+    <string name="p1c">6 - 8 Semanas</string>
+    <string name="p2c">9 - 11 Semanas</string>
+    <string name="p3c">12 - 14 Semanas</string>
+
+
+    <string name="establecer">Establecer</string>
+
+
 </resources>

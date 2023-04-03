@@ -5,12 +5,14 @@
       <map>
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/drawable/ic_perro_foreground.xml" value="0.3505" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_acerca_de.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_cartilla.xml" value="0.33" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_login2.xml" value="0.3489583333333333" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_mascotas.xml" value="0.25" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_recomendaciones.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_recordar.xml" value="0.33489583333333334" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_registro.xml" value="0.33" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_registro2.xml" value="0.3489583333333333" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_registro_mascotas.xml" value="0.33" />
@@ -19,6 +21,7 @@
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/content_registro.xml" value="0.3489583333333333" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/list_element.xml" value="0.33" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/list_element_vacuna.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/recordar.xml" value="0.34791666666666665" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/mipmap-anydpi-v26/ic_logo.xml" value="0.3505" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/mipmap-anydpi-v26/ic_perro.xml" value="0.3505" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/mipmap-anydpi-v26/ic_perro_round.xml" value="0.3505" />
