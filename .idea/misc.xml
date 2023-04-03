@@ -6,8 +6,11 @@
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/drawable/borde.xml" value="0.3495" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/drawable/divider.xml" value="0.176" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/drawable/ic_perro_foreground.xml" value="0.3505" />
-        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_acerca_de.xml" value="0.3489583333333333" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/drawable/ic_recordatorio.xml" value="0.3505" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_acerca_de.xml" value="0.33" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_cartilla.xml" value="0.33" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_cartilla_conejo.xml" value="0.26666666666666666" />
+        <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_cartilla_gato.xml" value="0.28072916666666664" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/mcsmo/AndroidStudioProjects/cartillaAnimal/app/src/main/res/layout/activity_login2.xml" value="0.3489583333333333" />

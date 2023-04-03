@@ -90,4 +90,16 @@
     <string name="rec_10">Asegurarse de que la mascota tenga un collar y una identificación en todo momento en caso de que se pierda.</string>
 
 
+    <string name="Facebook">Facebook</string>
+    <string name="F_M">Mangel Martinez</string>
+    <string name="F_A">Alfonso Vázquez</string>
+    <string name="Instagram">Facebook</string>
+    <string name="I_M">Mangel_Martinez</string>
+    <string name="I_A">Alfonsovg1</string>
+    <string name="Linkedin">Facebook</string>
+    <string name="L_M">Miguel Angel FM</string>
+    <string name="L_A">Alfonso VG</string>
+
+
+
 </resources>
