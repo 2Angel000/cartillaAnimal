@@ -10,6 +10,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
+import com.itch.cartillaanimal.Cartillas.Cartilla;
 import com.itch.cartillaanimal.RecycleVacunas.ListAdapterVacunas;
 import com.itch.cartillaanimal.RecycleVacunas.ListElementVacunas;
 
@@ -27,6 +28,7 @@ public class Vacunas extends AppCompatActivity {
         setContentView(R.layout.activity_vacunas);
         btnAtras = findViewById(R.id.btnAtras);
 
+
         init();
 
         btnAtras.setOnClickListener(new View.OnClickListener() {
@@ -38,6 +40,10 @@ public class Vacunas extends AppCompatActivity {
                 finish();
             }
         });
+
+
+
+
     }
 
     public void init(){
